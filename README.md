@@ -10,6 +10,12 @@ I'm a student at 42 Lyon, where I specialize in **C** and am preparing to dive i
 ## 🛠️ My Projects
 Here are some of my recent projects at 42:
 
+###[**Pipex**](https://github.com/pnaessen/pipex)
+recreate the functionality of Unix pipes in C
+
+![Pipex](https://img.shields.io/badge/Push%20Swap-complete-brightgreen)
+![Language](https://img.shields.io/badge/language-C-blue)
+
 ### [**Push Swap**](https://github.com/pnaessen/push_swap)
 A sorting algorithm to sort a stack using the smallest number of operations.
 
