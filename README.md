@@ -10,6 +10,10 @@ I'm a student at 42 Lyon, where I specialize in **C** and am preparing to dive i
 ## 🛠️ My Projects
 Here are some of my recent projects at 42:
 
+###[**GNL BUG RUN**](https://github.com/pnaessen/gnl-bug-hunt)
+Event tutor
+
+----------------------------------------------------------------------------
 ### [**Pipex**](https://github.com/pnaessen/pipex)
 recreate the functionality of Unix pipes in C
 
